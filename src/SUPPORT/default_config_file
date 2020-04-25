@@ -1,0 +1,5 @@
+#language configuration
+# 0->Spanish 1->English  
+0
+#analizer speed in ms
+250
